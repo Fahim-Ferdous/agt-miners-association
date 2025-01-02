@@ -1,6 +1,6 @@
 baseURL = 'https://mc.droppedbrain.com'
 languageCode = 'en-us'
-title = 'Minecraft for you, who dropped their brain'
+title = 'AGT Miners Association'
 
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "RSS", "sitemap"]

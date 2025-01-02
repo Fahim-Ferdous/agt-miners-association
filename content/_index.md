@@ -1,7 +1,7 @@
 +++
 date = '2025-01-01T14:43:24+06:00'
-draft = true
-title = 'mwo'
+draft = false
+title = 'AGT Miners Association'
 +++
 
 ## Steps:
@@ -32,7 +32,7 @@ title = 'mwo'
                              |_________________________|
    ```
 
-1. For security purposes, we are using an authentication plugin [(Authme Reloaded)](https://www.spigotmc.org/resources/authmereloaded.6269/) in the server. Ping @Fahim Ferdous with your funny/cringy **username**, and **password** for your registration. Now just wait for the good man to wake up from his slumber.
+1. For security purposes, we are using an authentication plugin [(Authme Reloaded)](https://www.spigotmc.org/resources/authmereloaded.6269/) in the server. Ping @Fahim Ferdous with your funny/cringy **username**, and **password** _(you will have to use the password every time you log in)_ for your registration. Now just wait for the good man to wake up from his slumber.
 1. Start the game, go to _Multiplayer_, then add the server with address `mc.droppedbrain.com`.
 1. After adding and entering to the server, look at the bottom left side of your screen, you'll be asked to run a login command. Just start by typing `/`, and do as it says. E.g. if username is `AaronPosa` and password is `PaimGubboi`, then you just have to type in `/login AaronPosa PaimGubboi`, and hit Enter.
 1. Enjoy the game!
