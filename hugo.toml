@@ -21,10 +21,10 @@ copyright = "&copy;2024 Meow"
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
-  shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  author = "Meow"
+  description = "Minecraft for you, who dropped their brain"
+  # shareImage = "images/social.jpg"
+  # twitterHandle = "onepagelove"
 
   # Whether you purchased the license from the author.
   licensed = false
